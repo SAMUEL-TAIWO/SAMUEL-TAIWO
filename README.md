@@ -1,6 +1,6 @@
 ### Hi👋, **I'm SAMUEL-TAIWO😄** [![](https://visitcount.itsvg.in/api?id=SAMUEL-TAIWO&icon=0&color=3)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **End to End projects(capstone) to apply my knowledge and build a strong portfolio.**
+- 🔭 I’m currently working on **End to End projects(The Women Techsters Fellowship capstone project) to apply my knowledge and build a strong portfolio.**
 - 🌱 I’m currently learning **machine learning, deep learning, and exploratory data analysis with Python.** 
 - 👯 I’m looking to collaborate on **Data analysis and Data Science Projects**
 - 💬 Ask me about **my journey into Data Science and Personal Development**
@@ -11,7 +11,7 @@
 
   ## About Me
   
-Introduced to the realm of data science during my first year in university while pursuing industrial mathematics, I later enrolled in a statistics course, which led me to discover the fascinating world of data science and analytics. Driven by my innate curiosity, I started learning Python independently. After much exploration, taking various courses, and navigating through trial and error, I had the opportunity to receive a scholarship for the Women Techsters Fellowship Programme by Tech4Dev. This experience provided me with a structured roadmap and significantly enhanced my understanding of data science.
+Introduced to the realm of data science during my first year in university while pursuing industrial mathematics, I later enrolled in a statistics course, which led me to discover the fascinating world of data science and analytics. Driven by my innate curiosity, I started learning Python independently. After much exploration, taking various courses, and navigating through trial and error, I had the opportunity to receive a scholarship for the Women Techsters Fellowship Programme by *@Tech4Dev*. This experience provided me with a structured roadmap and significantly enhanced my understanding of data science.
 
 
 ## 🌐 Socials:
