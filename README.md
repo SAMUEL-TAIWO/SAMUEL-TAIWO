@@ -1,6 +1,6 @@
 ### Hi👋, **I'm SAMUEL-TAIWO😄** [![](https://visitcount.itsvg.in/api?id=SAMUEL-TAIWO&icon=0&color=3)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **End to End projects(The Women Techsters Fellowship capstone project) to apply my knowledge and build a strong portfolio.**
+- 🔭 As a **graduate of the Women Techsters Fellowship in Data Science**, I am building a strong portfolio that highlights my skills in data cleaning, analysis, and advanced modeling..**
 - 🌱 I’m currently learning **machine learning, deep learning, and exploratory data analysis with Python.** 
 - 👯 I’m looking to collaborate on **Data analysis and Data Science Projects**
 - 💬 Ask me about **my journey into Data Science and Personal Development**
